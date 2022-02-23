@@ -1,0 +1,29 @@
+h1{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h2{
+    color: black;
+    font-style: inherit;
+    text-align: center;
+}
+
+p{
+    margin: 30px auto 30px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+img{
+    display: block;
+   
+    margin: 0 auto;
+}
+
+body{
+    margin: auto;
+    background-color: aliceblue;
+}
+
